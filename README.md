@@ -1,16 +1,28 @@
-## Hi there 👋
+# Stefan Branković
 
-<!--
-**stefbrankovic/stefbrankovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electrical Engineering student at the University of Belgrade, School of Electrical Engineering, 
+specializing in **Signals and Systems** — a program covering AI, signal processing,  
+control systems, and robotics.
 
-Here are some ideas to get you started:
+Currently working as an **Undergraduate Teaching Assistant** and looking for  
+a paid internship in ML/AI or signal processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Machine Learning & AI
+- Signal Processing
+- Control Systems and Mechatronics
+
+## Projects
+- [F1 Car Image Classification using CNN](https://github.com/stefbrankovic/f1_car_classification_cnn)  
+  *MobileNetV2 transfer learning + fine-tuning, 8-class classification, 75% accuracy*
+
+## Skills
+- Python (NumPy, Pandas, Scikit-Learn, TensorFlow/Keras)
+- MATLAB & Simulink
+- C/C++
+- Git/GitHub, LaTeX
+- Siemens TIA Portal, ABB RobotStudio
+
+## Contact
+- Email: stefan.brankovic2@gmail.com
+- LinkedIn: [linkedin.com/in/stefanbrankovic](https://www.linkedin.com/in/stefanbrankovic/)
