@@ -3,7 +3,7 @@
 Final-year Electrical Engineering student at the University of Belgrade (GPA 9.0/10.0),
 specializing in **AI, Machine Learning, and Deep Learning**.
 
-Currently conducting thesis research at the **ETF Robotics Laboratory** — applying Graph Convolutional Networks (ST-GCN, AGCN) for Human Action Recognition, with applications in collaborative robotics.
+Currently conducting thesis research at the **ETF Robotics Laboratory** - applying Graph Convolutional Networks (ST-GCN, AGCN) for Human Action Recognition, with applications in collaborative robotics.
 
 Also working as an **Undergraduate Teaching Assistant** (Signals and Systems, Signal Processing, Automatic Control Systems).
 
