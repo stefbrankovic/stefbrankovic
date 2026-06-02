@@ -11,7 +11,7 @@ Also working as an **Undergraduate Teaching Assistant** (Signals and Systems, Si
 
 ## Projects
 
-- **[FinStat AI — SME Financial & Legal Assistant](https://github.com/stefbrankovic/finstat-ai-google-nexus-hackathon)**  
+- **[FinStat AI - SME Financial & Legal Assistant](https://github.com/stefbrankovic/finstat-ai-google-nexus-hackathon)**  
   *Google Nexus Hackathon 2026 · End-to-end platform integrating bank APIs, eFaktura, and Serbian legal databases. Analytics Dashboard (ML-based cashflow forecasting) + AI ChatBot for financial and legal advisory*
 
 - **[Real-Time Pose Estimation & Yoga Pose Classification](https://github.com/stefbrankovic/mediapipe-pose-estimation)**  
