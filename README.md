@@ -15,19 +15,19 @@ Repo goes public after the defense.
 
 ### Selected work
 
-**[prompt-injection-guardrail-eval]([https://github.com/stefbrankovic/prompt-injection-guardrail-eval])** - What four production prompt-injection
+**[prompt-injection-guardrail-eval]**(https://github.com/stefbrankovic/prompt-injection-guardrail-eval) - What four production prompt-injection
 detectors actually detect. Measured as they ship, no retraining, every detector calibrated to
 the same false-alarm budget. An instruction-free wrapper template scores 0.9989. An
 English-calibrated threshold blocks 70.7% of harmless Serbian in Latin script and 100% in
 Cyrillic. Payloads past a 512-token boundary - predicted from the tokenizer alone, confirmed
 behaviourally to six decimal places - are invisible; overlapping-window scanning takes
-detection there from 0.05 to 0.98. *PSIML 11, with **[Katarina Bojović]([https://github.com/katarinnaaX])**.
+detection there from 0.05 to 0.98. *PSIML 11, with **[Katarina Bojović]**(https://github.com/katarinnaaX).
 
-**[cpp-shell-interpreter]([(https://github.com/stefbrankovic/cpp-shell-interpreter)])** - A command-line shell built from scratch in C++:
+**[cpp-shell-interpreter]**(https://github.com/stefbrankovic/cpp-shell-interpreter) - A command-line shell built from scratch in C++:
 11 built-in commands, hand-written lexer and parser, pipes, I/O redirection and batch
 scripting, on an abstract Command/Parser class hierarchy.
 
-**[finstat-ai]([(https://github.com/stefbrankovic/finstat-ai-google-nexus-hackathon)])** - SME finance platform built in 36 hours with a team of
+**[finstat-ai]**(https://github.com/stefbrankovic/finstat-ai-google-nexus-hackathon) - SME finance platform built in 36 hours with a team of
 five at the Google Nexus Hackathon: bank API integrations, eFaktura, Serbian legal database,
 analytics dashboard and an assistant on top. I built the data pipeline, advanced analytics dashboard and delivered the pitch to the jury.
 
