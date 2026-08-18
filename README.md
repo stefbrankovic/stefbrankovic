@@ -47,4 +47,4 @@ Central and Eastern Europe in the Global AI Race.*
 Python · C++ · PyTorch · Hugging Face · YOLOv8 · OpenCV · MediaPipe · NumPy · Pandas ·
 Git · Linux · LaTeX · ROS2 · MATLAB
 
-[stefan.brankovic2@gmail.com](mailto:stefan.brankovic2@gmail.com) · [LinkedIn]([FILL: link])
+[stefan.brankovic2@gmail.com](mailto:stefan.brankovic2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/stefanbrankovic/)
